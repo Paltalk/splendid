@@ -2,9 +2,16 @@
   "name": "splendid",
   "version": "0.0.1",
   "description": "Splendid is a NodeJS framework built on Iced Coffeescript and Express",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "iced-runtime": ">=1.0.2"
+  },
+  "devDependencies": {
+      "iced-coffee-script": "~1.8.0-a",
+      "tafa-misc-util": "0.1.6"
   },
   "repository": {
     "type": "git",
