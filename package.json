@@ -10,8 +10,7 @@
       "iced-runtime": ">=1.0.2"
   },
   "devDependencies": {
-      "iced-coffee-script": "~1.8.0-a",
-      "tafa-misc-util": "0.1.6"
+      "iced-coffee-script": "~1.8.0-a"
   },
   "repository": {
     "type": "git",
